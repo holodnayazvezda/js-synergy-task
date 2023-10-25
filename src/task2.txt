@@ -1,0 +1,17 @@
+ЗАДАНИЕ 2:
+1) перехожу в терминал, перехожу в каталог: "cd D:\web_java_script\7th_web\homework\homework"
+2) git init (создался .git)
+3) git status (проверяю статус файлов в git)
+далее задаем данные пользователя git
+4) git config user.name "Daniil"  
+5) git config user.email "holodnayazvezda@yandex.ru"
+6) git add
+7) git commit -m "Первый коммит"
+8) git branch -M main
+9) git remote add origin https://github.com/holodnayazvezda/js-synergy-task.git
+10) git push -u origin main
+
+Итог: выложена на github: https://github.com/holodnayazvezda/js-synergy-task.git
+
+ЗАДАНИЕ 3:
+повторил ;)
